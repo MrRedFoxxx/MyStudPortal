@@ -1,6 +1,8 @@
-# Мой СтудПортал
-
 <div align="center">
+
+<img src="docs/logo.png" alt="Мой СтудПортал" width="128" />
+
+# Мой СтудПортал
 
 ![Платформа](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Версия](https://img.shields.io/badge/версия-2.3.2-blue?style=flat-square)
@@ -70,18 +72,36 @@
 
 ## 📱 Скриншоты
 
-<div align="center">
-
-| Расписание | Дисциплины | Журнал |
-|:---:|:---:|:---:|
-| ![Расписание](docs/screens/01-schedule.png) | ![Дисциплины](docs/screens/02-courses.png) | ![Журнал](docs/screens/03-journal.png) |
-
-| Чат | Новости | Внешний вид |
-|:---:|:---:|:---:|
-| ![Чат](docs/screens/04-chat.png) | ![Новости](docs/screens/05-news.png) | ![Внешний вид](docs/screens/06-appearance.png) |
-
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screens/01-schedule.png" alt="Расписание" /><br/>
+      <b>Расписание</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screens/02-courses.png" alt="Дисциплины" /><br/>
+      <b>Дисциплины</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screens/03-journal.png" alt="Журнал" /><br/>
+      <b>Журнал</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screens/04-chat.png" alt="Чат" /><br/>
+      <b>Чат</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screens/05-news.png" alt="Новости" /><br/>
+      <b>Новости</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screens/06-appearance.png" alt="Внешний вид" /><br/>
+      <b>Внешний вид</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📥 Установка
