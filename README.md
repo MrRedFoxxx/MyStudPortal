@@ -5,7 +5,7 @@
 # Мой СтудПортал
 
 ![Платформа](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Версия](https://img.shields.io/badge/версия-2.3.2-blue?style=flat-square)
+![Версия](https://img.shields.io/badge/версия-2.4.0-blue?style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.4-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-M3_Expressive-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
@@ -162,6 +162,8 @@
 
 - [ ] Поддержка планшетов и складных устройств
 - [ ] Компаньон для Wear OS
+- [ ] Навигация по корпусам
+- [ ] Новые языки
 
 ---
 
